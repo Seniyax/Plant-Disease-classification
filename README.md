@@ -70,7 +70,18 @@ python api.py
 - Expected Accuracy 96% from validation
 
 **Model was trained using Goggle colab's T4 GPU but for Local Inference CPU is enough**
+
+## Futher Improvements
+- Addressing Class-imbalance
+- Fine-tunning more Layers
+- Ensamble Learner (EffiecientNet + ResNet)
+
+
   
+
+https://github.com/user-attachments/assets/25d2d344-d80b-48e6-a7a3-cc4168234275
+
+
 
   
 
